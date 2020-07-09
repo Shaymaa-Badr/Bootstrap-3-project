@@ -1,0 +1,28 @@
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-menu .divider,
+.option-box .cog-check {
+    background-color: #909
+}
+
+.navbar-inverse .navbar-brand span,
+.about h2 span,
+.about h3 span,
+.testimonails span,
+.footer h3,
+.footer .copyright span {
+    color: #909
+}
+
+.option-box .colors-options,
+.testimonails .carousel-indicators li.active{
+    border: 3px solid #909
+    
+} 
+
+.dropdown-menu{
+    border-top: 3px solid #909
+}

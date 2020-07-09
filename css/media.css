@@ -1,0 +1,18 @@
+/* All media quary style */
+@media(max-width:767px){
+    .navbar-inverse .navbar-nav > li > a{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .subscrie .form-control {
+        margin:20px auto;
+        width: 400px;
+    }
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse{
+        max-height: none;
+    }
+    .footer .awesome-projects{
+        text-align: center;
+    }
+}
