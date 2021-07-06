@@ -6,7 +6,8 @@ $(function () {
     
     // show color option when click on cog icon
     $('.cog-check').click(function () {
-        $('.colors-options').fadeToggle(900);
+        $('.option-box').animate({left: '0px'},1000)
+       
     });
 
     // Change colors of option box
